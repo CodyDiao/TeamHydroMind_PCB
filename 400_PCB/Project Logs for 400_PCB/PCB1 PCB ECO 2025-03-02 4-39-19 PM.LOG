@@ -1,0 +1,34 @@
+Change Component Footprint: Designator=J1 Old Footprint=FP-BM03B-GHS-TBT_LF_SN-MFG New Footprint=FP-BM03B-GHS-TBT_LF_SN-MFG
+Change Component Footprint: Designator=J3 Old Footprint=FP-BM03B-GHS-TBT_LF_SN-MFG New Footprint=FP-BM03B-GHS-TBT_LF_SN-MFG
+Change Component Footprint: Designator=J4 Old Footprint=FP-BM03B-GHS-TBT_LF_SN-MFG New Footprint=FP-BM03B-GHS-TBT_LF_SN-MFG
+Change Component Footprint: Designator=D1 Old Footprint=FP-LSM0603453V-MFG New Footprint=FP-LSM0603453V-MFG
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Add Component: Footprint Not Found SAMTEC_TSW-114-23-G-S-LL
+Add Component: Footprint Not Found ESPRESSIF_ESP32-DEVKITC-32UE
+Add Pin To Net: Unknown Pin: Pin J2-01
+Add Pin To Net: Unknown Pin: Pin J2-02
+Add Pin To Net: Unknown Pin: Pin J2-03
+Add Pin To Net: Unknown Pin: Pin J2-04
+Add Pin To Net: Unknown Pin: Pin J2-05
+Add Pin To Net: Unknown Pin: Pin J2-06
+Add Pin To Net: Unknown Pin: Pin J2-07
+Add Pin To Net: Unknown Pin: Pin J2-08
+Add Pin To Net: Unknown Pin: Pin J2-09
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-10
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-20
+Add Pin To Net: Unknown Pin: Pin U2-21
+Add Pin To Net: Unknown Pin: Pin U2-26
+Add Pin To Net: Unknown Pin: Pin U2-27
+Add Pin To Net: Unknown Pin: Pin U2-28
+Add Pin To Net: Unknown Pin: Pin U2-29
+Add Pin To Net: Unknown Pin: Pin U2-30
+Change Net Name : Old Net Name=NetSW?_3 New Net Name=NetSW1_3
+Add Class Member: Failed to add class member : Component J2 TSW-114-23-G-S-LL
+Add Class Member: Failed to add class member : Component U2 ESP32-DEVKITC-32UE
